@@ -26,12 +26,12 @@ I'm passionate about building efficient, user-friendly applications that solve r
 
 ### 🧠 From Siri to Smartypants  
 🗣️ *AI-powered personal assistant*  
-🔗 [GitHub Repo](https://github.com/Rohidhs/From-Siri-to-SmartyPants)  
+🔗 [GitHub Repo](https://github.com/Sibirajan20/From-Siri-To-Smartypants.git)  
 Custom AI assistant that responds to user queries with features like weather updates, Wikipedia search, and reminders.
 
 ### 💸 FinScope  
 📊 *Java-based Personal Budget Tracker (Console App)*  
-🔗 [GitHub Repo](https://github.com/Rohidhs/FinScope)  
+🔗 [GitHub Repo](https://github.com/Sibirajan20/Finscope.git)  
 Built during campus recruitment training to help users track and analyze expenses.
 
 ---
@@ -71,8 +71,8 @@ Built during campus recruitment training to help users track and analyze expense
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohidhs&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohidhs&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sibirajan20&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sibirajan20&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -80,8 +80,8 @@ Built during campus recruitment training to help users track and analyze expense
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://github.com/Rohidhs" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rohidh-sakthivel/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rohidhsakthivel277@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/ROHIDH_SAKTHIVEL/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
+  <a href="https://github.com/Sibirajan20" target="_blank"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white"/></a>
+  <a href="linkedin.com/in/sibirajan-d-4b9734323" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sibirajan963@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Sibirajan_20/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
 </p>
